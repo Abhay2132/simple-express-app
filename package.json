@@ -1,0 +1,23 @@
+{
+  "name": "simple-express-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhay2132/simple-express-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhay2132/simple-express-app/issues"
+  },
+  "homepage": "https://github.com/Abhay2132/simple-express-app#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
